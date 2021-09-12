@@ -1,1 +1,11 @@
 .passwords
+
+Tests/Nop.Tests/obj
+Tests/Nop.Tests/bin
+Presentation/Nop.Web/obj
+Plugins/Nop.Plugin.Widgets.NivoSlider/obj
+**/obj/
+**/bin/
+**/net5.0/
+**/*.nupkg
+Presentation/Nop.Web/obj
